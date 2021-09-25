@@ -1,6 +1,6 @@
 
 class MeLembra
-  @@meiahora = 5
+  @@meiahora = 1800
   def initialize()
     @usuarios = Hash.new(nil)
   end
